@@ -2,8 +2,8 @@
 import requests
 import json
 
-client_id = r'cf8dea63e6e5446380ca2f64304cd21d'
-client_secret = r'0b5ed460f1891ba61eee18c194809b3a48aa46c988866e77e9ed9f85021a5865'
+client_id = r''
+client_secret = r''
 
 auth_data = {
     'grant_type'    : 'client_credentials',
